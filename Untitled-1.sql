@@ -1,0 +1,1 @@
+SELECT * FROM `management_db`.`department` LIMIT 1000;
